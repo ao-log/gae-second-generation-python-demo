@@ -39,8 +39,8 @@ This application use ```/tmp``` directory, where temporary file location about u
 ### cloning sources
 
 ```
-$ git clone https://github.com/ao-log/gae-2nd-generation-python-demo
-$ cd gae-2nd-generation-python-demo
+$ git clone https://github.com/ao-log/gae-second-generation-python-demo
+$ cd gae-second-generation-python-demo
 ```
 
 ### deploy app
